@@ -1,0 +1,12 @@
+{
+"cover_path": ["hentai-waianiv6-card0.webp", "hentai-waianiv6-card1.webp", "hentai-waianiv6-card2.webp", "hentai-waianiv6-card3.webp", "hentai-waianiv6-card4.webp", "hentai-waianiv6-card5.webp", "hentai-waianiv6-card6.webp", "hentai-waianiv6-card7.webp"],
+"model_id": "John6666/wai-ani-nsfw-ponyxl-v6-sdxl",
+"name": "hentai-waianiv6-card",
+"prompt": "score_9, score_8_up, score_7_up,source_anime,BREAK, {prompt}",
+"negative_prompt": "SFW, children, loli, child, kids, teens, text, logo, timestamp, artist name, artist logo, watermark, web address, copyright name, copyright notice, emblem, comic, title, logo, character name, border, patreon username, signature, webpage, company name, caption, labels, comments",
+"width": 1024,
+"height": 768,
+"inference_steps": 30,
+"guidance_scale": 7,
+"use_safetensors": true
+}
